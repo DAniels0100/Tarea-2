@@ -1,0 +1,14 @@
+C:\Users\sealc\OneDrive\Escritorio\semestre 2 2024\datos 1\Tarea 2\Tarea 2\obj\Debug\net8.0\Tarea 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sealc\OneDrive\Escritorio\semestre 2 2024\datos 1\Tarea 2\Tarea 2\obj\Debug\net8.0\Tarea 2.AssemblyInfoInputs.cache
+C:\Users\sealc\OneDrive\Escritorio\semestre 2 2024\datos 1\Tarea 2\Tarea 2\obj\Debug\net8.0\Tarea 2.AssemblyInfo.cs
+C:\Users\sealc\OneDrive\Escritorio\semestre 2 2024\datos 1\Tarea 2\Tarea 2\obj\Debug\net8.0\Tarea 2.csproj.CoreCompileInputs.cache
+C:\Users\sealc\OneDrive\Escritorio\semestre 2 2024\datos 1\Tarea 2\Tarea 2\bin\Debug\net8.0\Tarea 2.exe
+C:\Users\sealc\OneDrive\Escritorio\semestre 2 2024\datos 1\Tarea 2\Tarea 2\bin\Debug\net8.0\Tarea 2.deps.json
+C:\Users\sealc\OneDrive\Escritorio\semestre 2 2024\datos 1\Tarea 2\Tarea 2\bin\Debug\net8.0\Tarea 2.runtimeconfig.json
+C:\Users\sealc\OneDrive\Escritorio\semestre 2 2024\datos 1\Tarea 2\Tarea 2\bin\Debug\net8.0\Tarea 2.dll
+C:\Users\sealc\OneDrive\Escritorio\semestre 2 2024\datos 1\Tarea 2\Tarea 2\bin\Debug\net8.0\Tarea 2.pdb
+C:\Users\sealc\OneDrive\Escritorio\semestre 2 2024\datos 1\Tarea 2\Tarea 2\obj\Debug\net8.0\Tarea 2.dll
+C:\Users\sealc\OneDrive\Escritorio\semestre 2 2024\datos 1\Tarea 2\Tarea 2\obj\Debug\net8.0\refint\Tarea 2.dll
+C:\Users\sealc\OneDrive\Escritorio\semestre 2 2024\datos 1\Tarea 2\Tarea 2\obj\Debug\net8.0\Tarea 2.pdb
+C:\Users\sealc\OneDrive\Escritorio\semestre 2 2024\datos 1\Tarea 2\Tarea 2\obj\Debug\net8.0\Tarea 2.genruntimeconfig.cache
+C:\Users\sealc\OneDrive\Escritorio\semestre 2 2024\datos 1\Tarea 2\Tarea 2\obj\Debug\net8.0\ref\Tarea 2.dll
